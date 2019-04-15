@@ -1,0 +1,7 @@
+c:\users\lorenzo\source\repos\McDaniel_PA3\McDaniel_PA3\bin\Debug\McDaniel_PA3.exe.config
+c:\users\lorenzo\source\repos\McDaniel_PA3\McDaniel_PA3\bin\Debug\McDaniel_PA3.exe
+c:\users\lorenzo\source\repos\McDaniel_PA3\McDaniel_PA3\bin\Debug\McDaniel_PA3.pdb
+c:\users\lorenzo\source\repos\McDaniel_PA3\McDaniel_PA3\obj\Debug\McDaniel_PA3.csprojAssemblyReference.cache
+c:\users\lorenzo\source\repos\McDaniel_PA3\McDaniel_PA3\obj\Debug\McDaniel_PA3.csproj.CoreCompileInputs.cache
+c:\users\lorenzo\source\repos\McDaniel_PA3\McDaniel_PA3\obj\Debug\McDaniel_PA3.exe
+c:\users\lorenzo\source\repos\McDaniel_PA3\McDaniel_PA3\obj\Debug\McDaniel_PA3.pdb
